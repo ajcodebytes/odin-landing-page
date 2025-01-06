@@ -1,0 +1,19 @@
+:root {
+  /* COLORS */
+  --background-color: #121212; /* Dark charcoal black for the main background */
+  --primary-color: #d72638; /* Deep crimson red for accents and links */
+  --secondary-color: #fbb13c; /* Warm amber yellow for highlights or buttons */
+  --text-color: #e0e0e0; /* Soft off-white for general text */
+  --muted-color: #6a6a6a; /* Grey for secondary text or captions */
+  --link-hover-color: #ff6363; /* Lively red-orange for hover effects */
+  --border-color: #282828; /* Subtle grey-black for borders or dividers */
+  --aj-color: aqua;
+
+  /* FONT SIZES */
+
+  --heading-font-size: 2.5rem; /* Main headings (h1) */
+  --subheading-font-size: 1.8rem; /* Subheadings (h2, h3) */
+  --body-font-size: 1.2rem; /* General text */
+  --small-text-size: 1rem; /* Captions or footnotes */
+  --x-small-text-size: 0.875rem; /* Captions or footnotes */
+}
